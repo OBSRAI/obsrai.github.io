@@ -1,5 +1,3 @@
-## Overview
-
 OBSRAI introduces a novel benchmark tailored specifically for urban-specific challenges using geospatial vector data. This benchmark is crafted to facilitate the development and evaluation of geospatial models, aiding efforts in urban planning, mobility prediction, and environmental monitoring.
 
 # Key Features
