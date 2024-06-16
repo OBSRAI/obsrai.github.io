@@ -18,15 +18,15 @@ Welcome to the official leaderboard for the Open Benchmark for Spatial Represent
 
 | Rank | Model    | Dataset                    | MSE                   | MAE                  | RMSE                | Source/Reference |
 |------|----------|----------------------------|-----------------------|----------------------|---------------------|------------------|
-| 1    | Baseline | House Sales in King County | $4.47 \times 10^{11}$ | $5.48 \times 10^5$   | $6.61 \times 10^5$  | OBSRAI Paper     |
+| 1    | Baseline | House Sales in King County | $$4.47 \times 10^{11}$$ | $$5.48 \times 10^5$$   | $$6.61 \times 10^5$$  | OBSRAI Paper     |
 
 ## Crime Activity Prediction
 
 | Rank | Model    | Dataset            | MAE                  | MSE                 | RMSE                | Source/Reference |
 |------|----------|--------------------|----------------------|---------------------|---------------------|------------------|
-| 1    | Baseline | Chicago Crimes     | $2.95 \times 10^{-2}$| $2.88 \times 10^{-3}$ | $4.92 \times 10^{-2}$ | OBSRAI Paper     |
-| 1    | Baseline | Philadelphia Crimes | $3.30 \times 10^{-2}$| $4.15 \times 10^{-3}$ | $5.91 \times 10^{-2}$ | OBSRAI Paper     |
-| 1    | Baseline | San Francisco Crimes| $2.77 \times 10^{-2}$| $5.03 \times 10^{-3}$ | $6.52 \times 10^{-2}$ | OBSRAI Paper     |
+| 1    | Baseline | Chicago Crimes     | $$2.95 \times 10^{-2}$$| $$2.88 \times 10^{-3}$$ | $$4.92 \times 10^{-2}$$ | OBSRAI Paper     |
+| 1    | Baseline | Philadelphia Crimes | $$3.30 \times 10^{-2}$$| $$4.15 \times 10^{-3}$$ | $$5.91 \times 10^{-2}$$ | OBSRAI Paper     |
+| 1    | Baseline | San Francisco Crimes| $$2.77 \times 10^{-2}$$| $$5.03 \times 10^{-3}$$ | $$6.52 \times 10^{-2}$$ | OBSRAI Paper     |
 
 ## Time Travel Estimation
 
